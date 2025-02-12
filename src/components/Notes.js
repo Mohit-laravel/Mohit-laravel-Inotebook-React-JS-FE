@@ -51,7 +51,7 @@ const Notes = (props) => {
             <button
                 type="button"
                 ref={ref}
-                className="btn btn-primary d-none"
+                className="btn btn-primary d"
                 data-bs-toggle="modal"
                 data-bs-target="#exampleModal">
                 Launch demo modal
